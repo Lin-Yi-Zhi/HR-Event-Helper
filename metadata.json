@@ -1,0 +1,5 @@
+{
+  "name": "HR Event Helper",
+  "description": "A tool for HR to manage lucky draws and random grouping from a list of names.",
+  "requestFramePermissions": []
+}
